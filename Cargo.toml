@@ -1,0 +1,7 @@
+[package]
+name = "infinite-monekys"
+version = "0.1.0"
+authors = ["Baris Demirdelen <barisdemirdelen@gmail.com>"]
+
+[dependencies]
+ncurses = "*"
