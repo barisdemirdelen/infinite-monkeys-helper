@@ -10,6 +10,6 @@ fn main() {
     noecho();
     for c in _text.chars() {
         getch();
-        printw(c.to_string().as_str());
+        addstr(c.to_string().as_str());
     }
 }
